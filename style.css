@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+     box-sizing: border-box;
+    font-family:sans-serif
+}
+td img {
+    width: 70px;
+    height: 70px;
+    margin-right: .5rem;
+    border-radius: 50%;
+    
+    vertical-align: middle
+}
+table {
+    font-family: Helvetica, sans-serif;
+    border-collapse: collapse;
+    border-width: 1px;
+    border-style: solid;
+    border-color:red;
+}
+
+th {
+    font-weight: 800;
+    color:red;
+    background-color: black;
+} 
+
+
+
+
